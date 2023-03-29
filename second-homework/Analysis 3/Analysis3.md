@@ -9,6 +9,6 @@ Improvement points:
 1) The code can be made more efficient by using a while loop instead of a recursive function, which can cause stack overflow errors for very large input numbers.
 
 
-2)The code can be made more readable by using a generator expression instead of a list comprehension to convert the input number into a list of its digits.
+2) The code can be made more readable by using a generator expression instead of a list comprehension to convert the input number into a list of its digits.
 
 ***Analysis by Matthias and Ott***
